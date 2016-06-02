@@ -1,0 +1,10 @@
+Para iniciar un repositorio en local, entramos en la carpeta e iniciamos git.
+Git init, para iniciar el repositorio.
+Para chequear lo que tengo: git status.
+Para añadir: git add . (solo permitido al iniciar el repositorio, despues no, para no comitear sobre todos los archivos).
+Hacer un commit: git commit -m "" (donde explicaremos en que consiste el commit).
+git touch(crear un archivo, buscar cómo en windows).
+
+Cuenta github: lorenago
+
+Crear repositorio en github:
